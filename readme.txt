@@ -9,7 +9,7 @@ This project is an ETL pipeline that fetches  air quality data for a particular 
 - Pandas
 - Requests
 - SQLAlchemy
-- PostgreSQL (via Docker)
+- PostgreSQL (via Docker Setup)
 - Docker & Docker Compose
 
 ## 📁 Project Structure
