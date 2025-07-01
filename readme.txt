@@ -12,7 +12,7 @@ This project is an ETL pipeline that fetches  air quality data for a particular 
 - PostgreSQL (via Docker Setup)
 - Docker & Docker Compose
 
-## 📁 Project Structure
+## 📁 Project Structure here
 
 ```
 pollution_levels/
