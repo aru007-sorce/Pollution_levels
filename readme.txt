@@ -12,17 +12,18 @@ This project is an ETL pipeline that fetches  air quality data for a particular 
 - PostgreSQL (via Docker Setup)
 - Docker & Docker Compose
 
-## 📁 Project final Structure here
+## 📁  Project final Structure here
 
 ```
 pollution_levels/
-├── final_def.py                # ETL script
+├── final_def.py                # ETL script and All functions
 |-- main.py
 |-- report.py               # Generate Weekly and Daily Reports 
 ├── requirements.txt        # Python dependencies
 ├── Dockerfile              # Docker build for ETL script
 ├── docker-compose.yml      # Docker setup for ETL + PostgreSQL
 └── .env                    # Environment variables
+
 ```
 
 ## Setup Project
