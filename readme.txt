@@ -16,8 +16,11 @@ This project is an ETL pipeline that fetches  air quality data for a particular 
 
 ```
 pollution_levels/
-├── final_def.py                # ETL script
-|-- main.py
+|-- dags 
+|   |--services
+|      ├── final_def.py     # ETL script
+    |--schedule
+|-- main.py                 
 |-- report.py               # Generate Weekly and Daily Reports 
 ├── requirements.txt        # Python dependencies
 ├── Dockerfile              # Docker build for ETL script
