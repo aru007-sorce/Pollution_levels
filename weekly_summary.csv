@@ -1,0 +1,115 @@
+city,parameter,category,week,min,max,avg
+Ahmedabad,CO,Moderate,2025-23,0.677,0.677,0.677
+Ahmedabad,CO,Unhealthy for Sensitive Groups,2025-23,0.119,0.119,0.119
+Ahmedabad,NO2,Moderate,2025-23,11.974,11.974,11.974
+Ahmedabad,NO2,Unhealthy for Sensitive Groups,2025-23,5.679,5.679,5.679
+Ahmedabad,OZONE,Moderate,2025-23,0.018,0.018,0.018
+Ahmedabad,OZONE,Unhealthy for Sensitive Groups,2025-23,0.005,0.005,0.005
+Ahmedabad,PM10,Moderate,2025-23,57.174,57.174,57.174
+Ahmedabad,PM10,Unhealthy for Sensitive Groups,2025-23,86.332,86.332,86.332
+Ahmedabad,PM25,Moderate,2025-23,21.64,21.64,21.64
+Ahmedabad,PM25,Unhealthy for Sensitive Groups,2025-23,49.154,49.154,49.154
+Ahmedabad,SO2,Moderate,2025-23,6.355,6.355,6.355
+Ahmedabad,SO2,Unhealthy for Sensitive Groups,2025-23,2.344,2.344,2.344
+Beijing,CO,Moderate,2025-23,0.22,0.22,0.22
+Beijing,NO2,Moderate,2025-23,4.471,4.471,4.471
+Beijing,OZONE,Moderate,2025-23,0.084,0.084,0.084
+Beijing,PM10,Moderate,2025-23,92.971,92.971,92.971
+Beijing,PM25,Moderate,2025-23,27.764,27.764,27.764
+Beijing,SO2,Moderate,2025-23,1.0,1.0,1.0
+Delhi,CO,Unhealthy,2025-23,0.375,0.375,0.375
+Delhi,NO2,Unhealthy,2025-23,9.702,9.702,9.702
+Delhi,OZONE,Unhealthy,2025-23,0.052,0.052,0.052
+Delhi,PM10,Unhealthy,2025-23,176.478,176.478,176.478
+Delhi,PM25,Unhealthy,2025-23,60.161,60.161,60.161
+Delhi,SO2,Unhealthy,2025-23,5.732,5.732,5.732
+Dubai,CO,Moderate,2025-23,0.1,0.1,0.1
+Dubai,CO,Unhealthy for Sensitive Groups,2025-23,0.736,0.736,0.736
+Dubai,NO2,Moderate,2025-23,11.992,11.992,11.992
+Dubai,NO2,Unhealthy for Sensitive Groups,2025-23,66.6,66.6,66.6
+Dubai,OZONE,Moderate,2025-23,0.052,0.052,0.052
+Dubai,OZONE,Unhealthy for Sensitive Groups,2025-23,0.008,0.008,0.008
+Dubai,PM10,Moderate,2025-23,115.0,115.0,115.0
+Dubai,PM10,Unhealthy for Sensitive Groups,2025-23,241.0,241.0,241.0
+Dubai,PM25,Moderate,2025-23,26.4,26.4,26.4
+Dubai,PM25,Unhealthy for Sensitive Groups,2025-23,52.8,52.8,52.8
+Dubai,SO2,Moderate,2025-23,2.491,2.491,2.491
+Dubai,SO2,Unhealthy for Sensitive Groups,2025-23,4.2,4.2,4.2
+Glendale,CO,Moderate,2025-23,0.185,0.185,0.185
+Glendale,NO2,Moderate,2025-23,7.789,7.789,7.789
+Glendale,OZONE,Moderate,2025-23,41.617,41.617,41.617
+Glendale,PM10,Moderate,2025-23,34.581,34.581,34.581
+Glendale,PM25,Moderate,2025-23,10.7,10.7,10.7
+Glendale,SO2,Moderate,2025-23,0.143,0.143,0.143
+Hyderabad,CO,Moderate,2025-23,0.477,0.575,0.526
+Hyderabad,NO2,Moderate,2025-23,5.199,11.555,8.376999999999999
+Hyderabad,OZONE,Moderate,2025-23,0.01,0.011,0.010499999999999999
+Hyderabad,PM10,Moderate,2025-23,83.214,96.229,89.72149999999999
+Hyderabad,PM25,Moderate,2025-23,18.03,23.659,20.8445
+Hyderabad,SO2,Moderate,2025-23,4.701,4.897,4.7989999999999995
+London,CO,Moderate,2025-23,0.006,0.295,0.1505
+London,NO2,Moderate,2025-23,9.754,15.078,12.416
+London,OZONE,Moderate,2025-23,28.509,36.776,32.6425
+London,PM10,Moderate,2025-23,21.961,41.556,31.758499999999998
+London,PM25,Moderate,2025-23,10.276,12.589,11.432500000000001
+London,SO2,Moderate,2025-23,1.088,1.685,1.3865
+Los Angeles,CO,Moderate,2025-23,0.2,0.2,0.2
+Los Angeles,NO2,Moderate,2025-23,11.832,11.832,11.832
+Los Angeles,OZONE,Moderate,2025-23,24.395,24.395,24.395
+Los Angeles,PM10,Moderate,2025-23,31.289,31.289,31.289
+Los Angeles,PM25,Moderate,2025-23,14.507,14.507,14.507
+Los Angeles,SO2,Moderate,2025-23,0.209,0.209,0.209
+Mumbai,CO,Moderate,2025-23,0.46,0.561,0.5105000000000001
+Mumbai,NO2,Moderate,2025-23,7.67,8.313,7.9915
+Mumbai,OZONE,Moderate,2025-23,0.007,0.009,0.008
+Mumbai,PM10,Moderate,2025-23,35.693,43.881,39.787
+Mumbai,PM25,Moderate,2025-23,9.795,23.636,16.7155
+Mumbai,SO2,Moderate,2025-23,9.946,11.082,10.514
+New Delhi,CO,Unhealthy,2025-23,0.406,0.406,0.406
+New Delhi,NO2,Unhealthy,2025-23,4.073,4.073,4.073
+New Delhi,OZONE,Unhealthy,2025-23,0.054,0.054,0.054
+New Delhi,PM10,Unhealthy,2025-23,167.186,167.186,167.186
+New Delhi,PM25,Unhealthy,2025-23,68.767,68.767,68.767
+New Delhi,SO2,Unhealthy,2025-23,2.112,2.112,2.112
+New Territories,CO,Good,2025-23,0.222,0.222,0.222
+New Territories,NO2,Good,2025-23,13.836,13.836,13.836
+New Territories,OZONE,Good,2025-23,0.012,0.012,0.012
+New Territories,PM10,Good,2025-23,7.4,7.4,7.4
+New Territories,PM25,Good,2025-23,3.461,3.461,3.461
+New Territories,SO2,Good,2025-23,1.349,1.349,1.349
+New York,CO,Moderate,2025-23,0.235,0.254,0.2445
+New York,NO2,Moderate,2025-23,12.354,22.629,17.491500000000002
+New York,OZONE,Moderate,2025-23,36.084,40.302,38.193
+New York,PM10,Moderate,2025-23,77.364,96.443,86.90350000000001
+New York,PM25,Moderate,2025-23,17.519,21.997,19.758
+New York,SO2,Moderate,2025-23,0.363,0.606,0.4845
+Paris,CO,Good,2025-23,0.13,0.295,0.2125
+Paris,NO2,Good,2025-23,7.005,14.793,10.899
+Paris,OZONE,Good,2025-23,27.526,48.084,37.805
+Paris,PM10,Good,2025-23,17.313,27.029,22.171
+Paris,PM25,Good,2025-23,3.183,4.598,3.8905
+Paris,SO2,Good,2025-23,0.154,0.177,0.16549999999999998
+Pune,CO,Moderate,2025-23,0.162,0.191,0.1765
+Pune,NO2,Moderate,2025-23,4.324,4.346,4.335
+Pune,OZONE,Moderate,2025-23,36.31,37.55,36.93
+Pune,PM10,Moderate,2025-23,26.43,28.031,27.2305
+Pune,PM25,Moderate,2025-23,16.739,19.263,18.001
+Pune,SO2,Moderate,2025-23,2.624,3.946,3.285
+Shinjuku-ku,CO,Moderate,2025-23,0.283,0.283,0.283
+Shinjuku-ku,NO2,Moderate,2025-23,15.288,15.288,15.288
+Shinjuku-ku,OZONE,Moderate,2025-23,46.18,46.18,46.18
+Shinjuku-ku,PM10,Moderate,2025-23,52.704,52.704,52.704
+Shinjuku-ku,PM25,Moderate,2025-23,11.762,11.762,11.762
+Shinjuku-ku,SO2,Moderate,2025-23,1.697,1.697,1.697
+Singapore,CO,Good,2025-23,0.193,0.193,0.193
+Singapore,CO,Moderate,2025-23,0.266,0.266,0.266
+Singapore,NO2,Good,2025-23,3.787,3.787,3.787
+Singapore,NO2,Moderate,2025-23,9.007,9.007,9.007
+Singapore,OZONE,Good,2025-23,6.409,6.409,6.409
+Singapore,OZONE,Moderate,2025-23,13.158,13.158,13.158
+Singapore,PM10,Good,2025-23,23.612,23.612,23.612
+Singapore,PM10,Moderate,2025-23,30.857,30.857,30.857
+Singapore,PM25,Good,2025-23,8.482,8.482,8.482
+Singapore,PM25,Moderate,2025-23,10.549,10.549,10.549
+Singapore,SO2,Good,2025-23,2.186,2.186,2.186
+Singapore,SO2,Moderate,2025-23,2.08,2.08,2.08

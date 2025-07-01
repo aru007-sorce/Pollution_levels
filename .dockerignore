@@ -1,0 +1,11 @@
+# Ignore environment files
+.env
+.venv
+
+.daily_summary.csv
+.weekly_summary.csv
+
+
+
+
+
